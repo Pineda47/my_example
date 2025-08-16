@@ -1,0 +1,7 @@
+control de versiones 
+en servidor universal que no es recomendable dado que si se falla ,se cae todo.
+ayuda a agrupar diferentes informaciones son que se afecte
+-Rollback:Metodo de recuperar o devolverse archives anteriores 
+¨dato curiosos: Despues de acabar enviarlo a la nube ¨
+
+
